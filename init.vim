@@ -5,6 +5,7 @@ Plug 'rking/ag.vim'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 "Plug 'Yggdroot/indentLine'
 Plug 'ludovicchabant/vim-gutentags'
+Plug 'Valloric/YouCompleteMe'
 Plug 'nathanaelkane/vim-indent-guides'
 Plug 'mhartington/oceanic-next'
 call plug#end()
